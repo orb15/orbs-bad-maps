@@ -22,8 +22,7 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     },
     {
       "name": "orbs-bad-backgrounds",
@@ -33,8 +32,8 @@
       "ownership": {
         "PLAYER": "OBSERVER",
         "ASSISTANT": "OWNER"
-      },
-      "flags": {}
+      }
     }
-  ]
+  ],
+  "url": "https://github.com/orb15/bad-maps"
 }
