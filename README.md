@@ -1,5 +1,6 @@
 # Orb's Bad Maps (and Backgrounds)
-Orb's Bad Maps is a collection of quick battlemaps and backgrounds I have made for my own games.
+Orb's Bad Maps is a collection of quick battlemaps and backgrounds I have made for my own games in Foundry Virtual Tabletop.
+
 I am not a fantasy carteographer.
 I have no talent. I do not have a Patreon. 
 There are no works of art here and no animation.
@@ -7,7 +8,7 @@ I make maps because I run online games and need maps, preferably reusable ones.
 
 My only goal is to save you a bit of time or maybe provide a map that is good enough for your needs in a pinch.
 
-All content (underlying images, the FVTT scenes) in this module is not only free, it is released under the UNLICENSE, so you can do what you want with them, no attribution required.
+All content (underlying images, the FVTT scenes) in this module is not only free, it is released under the UNLICENSE, so you can do what you want with it, no attribution required.
 
 I am always developing a map or two. Check back often for updates.
 
@@ -53,8 +54,10 @@ The latest production version is listed at the top of the table.
 Older versions are listed below the top row.
 In general, you should use the tagged version of this software compatible with the version of FVTT you are running.
 
+## FVTT Compatibility Note
 If you do not see your version listed, that is ok. You can _probably_ just use this module anyway.
-If you find you cannot make direct use of the scenes because of a Foundry version compatibility issue, feel free to use the images assets to build your own battlemaps and backgrounds. The raw files for these images can be found in the module folder where this module is installed.
+If you find you cannot make direct use of the scenes because of a Foundry version compatibility issue, feel free to use the images assets to build your own battlemaps and backgrounds.
+You can find the raw image files in the directory where this module is stored on your local system.
 
 ## Major and Minor Versions of this Software
 Major version changes in this software do _not_ mean that this software itself is undergoing a breaking change.
