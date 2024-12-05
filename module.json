@@ -1,0 +1,40 @@
+{
+  "id": "orbs-bad-maps",
+  "title": "Orb's Bad Maps",
+  "version": "1.0.0",
+  "compatibility": {
+    "minimum": "0.6.0",
+    "verified": "12"
+  },
+  "description": "Orb's Bad Maps is a collection of quick battlemaps and backgrounds.\n\nI am not a fantasy carteographer. I have no talent. I do not have a Patreon.",
+  "authors": [
+    {
+      "name": "Orb",
+      "flags": {}
+    }
+  ],
+  "packs": [
+    {
+      "name": "orbs-bad-maps",
+      "label": "Orb's Bad Maps",
+      "path": "packs/orbs-bad-maps",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    },
+    {
+      "name": "orbs-bad-backgrounds",
+      "label": "Orb's Bad Backgrounds",
+      "path": "packs/orbs-bad-backgrounds",
+      "type": "Scene",
+      "ownership": {
+        "PLAYER": "OBSERVER",
+        "ASSISTANT": "OWNER"
+      },
+      "flags": {}
+    }
+  ]
+}
