@@ -3,8 +3,8 @@
   "title": "Orb's Bad Maps",
   "version": "1.0.0",
   "url": "https://github.com/orb15/orbs-bad-maps",
-  "manifest": "https://github.com/orb15/orbs-bad-maps/releases/latest/download/module.json"
-  "download": "https://github.com/orb15/orbs-bad-maps/releases/download/v1.0.0/orbs-bad-maps.zip"
+  "manifest": "https://github.com/orb15/orbs-bad-maps/releases/latest/download/module.json",
+  "download": "https://github.com/orb15/orbs-bad-maps/releases/download/v1.0.0/orbs-bad-maps.zip",
   "compatibility": {
     "minimum": "0.6.0",
     "verified": "12"
