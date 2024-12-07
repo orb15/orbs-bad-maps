@@ -16,7 +16,7 @@ I am always developing a map or two. Check back often for updates.
 * Almost all maps are 2000 x 2000 pixels, with a grid size of 50 pixels. This creates a 40 x 40 square-grid battlemap
 * The images underlying the maps are gridless. Feel free to use them in your own Scenes
 * I have added walls if the map required it, but that is about it
-* Few if any maps make use of placed (Dynamic) Lighting
+* Few if any maps make use of placed lights
 * All maps have been configured with the following settings:
   * Display full size when initially opened
   * Display a grid of 5ft sqaures
@@ -29,7 +29,7 @@ I am always developing a map or two. Check back often for updates.
 
 ## About the Backgrounds
 Backgrounds are just textured images with no additional imagery.
-Basically, their purpose is to provide a background other than the default FVTT gray found as the Scene default.
+Their purpose is to provide a background other than the default FVTT gray found as the Scene default.
 Some players and DMs do not like the complexity of dynamic lighting or cluttered battlemaps. Using a textured background instead of the steel-gray default Scene background can add flavor to the VTT without the full complexity of battlemaps.
 
 * All backgrounds are 2000 x 2000 pixels, with a grid size of 50 pixels. This creates a 40 x 40 square-grid background

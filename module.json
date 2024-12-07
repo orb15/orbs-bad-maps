@@ -36,5 +36,6 @@
     }
   ],
   "url": "https://github.com/orb15/orbs-bad-maps",
-  "manifest": "https://github.com/orb15/orbs-bad-maps"
+  "manifest": "https://github.com/orb15/orbs-bad-maps/releases/download/latest/module.json"
+  "download": "https://github.com/orb15/orbs-bad-maps/releases/download/1.0.0/orbs-bad-maps.zip"
 }
