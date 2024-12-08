@@ -73,4 +73,5 @@ This Changelog will be periodically updated to reflect the latest version of FVT
 
 | Tagged Version | Foundry Compatibility | Notes |
 |----------------|-----------------------|-------|
+| v1.1.0         | FVTT v12 Build 331    |Added 1 map|
 | v1.0.0         | FVTT v12 Build 331    |Inital release|
