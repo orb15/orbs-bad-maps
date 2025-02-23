@@ -1,5 +1,25 @@
-2024/12/10-17:20:45.991 3cd4 Recovering log #24
-2024/12/10-17:20:45.991 3cd4 Level-0 table #26: started
-2024/12/10-17:20:45.995 3cd4 Level-0 table #26: 1327 bytes OK
-2024/12/10-17:20:45.997 3cd4 Delete type=0 #24
-2024/12/10-17:20:45.997 3cd4 Delete type=3 #23
+2025/02/23-16:20:30.456 52d0 Recovering log #30
+2025/02/23-16:20:30.458 52d0 Delete type=0 #30
+2025/02/23-16:20:30.458 52d0 Delete type=3 #28
+2025/02/23-16:35:13.235 592c Level-0 table #34: started
+2025/02/23-16:35:13.236 592c Level-0 table #34: 16712 bytes OK
+2025/02/23-16:35:13.237 592c Delete type=0 #32
+2025/02/23-16:35:13.237 592c Manual compaction at level-0 from '!scenes!239q5bsGS7wkToVO' @ 72057594037927935 : 1 .. '!scenes.walls!w4KpjpCYrmGfmEYk.zhk9nDJ6s11o5YVK' @ 0 : 0; will stop at '!scenes.walls!9fBBflDO54qa8u9i.ze4ubPmmysdwusjH' @ 342 : 1
+2025/02/23-16:35:13.237 592c Compacting 4@0 + 1@1 files
+2025/02/23-16:35:13.239 592c Generated table #35@0: 456 keys, 51673 bytes
+2025/02/23-16:35:13.239 592c Compacted 4@0 + 1@1 files => 51673 bytes
+2025/02/23-16:35:13.240 592c compacted to: files[ 0 1 1 0 0 0 0 ]
+2025/02/23-16:35:13.240 592c Delete type=2 #9
+2025/02/23-16:35:13.240 592c Delete type=2 #17
+2025/02/23-16:35:13.240 592c Delete type=2 #26
+2025/02/23-16:35:13.240 592c Delete type=2 #29
+2025/02/23-16:35:13.241 592c Delete type=2 #34
+2025/02/23-16:35:13.243 592c Manual compaction at level-0 from '!scenes.walls!9fBBflDO54qa8u9i.ze4ubPmmysdwusjH' @ 342 : 1 .. '!scenes.walls!w4KpjpCYrmGfmEYk.zhk9nDJ6s11o5YVK' @ 0 : 0; will stop at (end)
+2025/02/23-16:35:13.246 592c Manual compaction at level-1 from '!scenes!239q5bsGS7wkToVO' @ 72057594037927935 : 1 .. '!scenes.walls!w4KpjpCYrmGfmEYk.zhk9nDJ6s11o5YVK' @ 0 : 0; will stop at '!scenes.walls!w4KpjpCYrmGfmEYk.zhk9nDJ6s11o5YVK' @ 45 : 1
+2025/02/23-16:35:13.246 592c Compacting 1@1 + 1@2 files
+2025/02/23-16:35:13.247 592c Generated table #36@1: 455 keys, 51648 bytes
+2025/02/23-16:35:13.247 592c Compacted 1@1 + 1@2 files => 51648 bytes
+2025/02/23-16:35:13.247 592c compacted to: files[ 0 0 1 0 0 0 0 ]
+2025/02/23-16:35:13.249 592c Delete type=2 #5
+2025/02/23-16:35:13.249 592c Delete type=2 #35
+2025/02/23-16:35:13.249 592c Manual compaction at level-1 from '!scenes.walls!w4KpjpCYrmGfmEYk.zhk9nDJ6s11o5YVK' @ 45 : 1 .. '!scenes.walls!w4KpjpCYrmGfmEYk.zhk9nDJ6s11o5YVK' @ 0 : 0; will stop at (end)
