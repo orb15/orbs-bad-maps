@@ -1,0 +1,37 @@
+To Create New Content
+=====================
+
+1.  Use Inkarnate or whatever to create the raw image file
+2.  Export the image file. Be sure it is 2000 x 2000 with a 50px grid unless you are intentionally breaking the standards in the README
+3.  Copy the downloaded file into the local repo in the proper folder
+4.  Fire up FoundryVTT and select the Source World for  Orb's Bad Maps
+5.  Create the scene using the standard scene config as described in the README
+6.  When you are happy with the scene, add it to the appropriate compendium
+7.  Close FoundryVTT
+
+To Create a Release
+=====================
+1.  Browse to the orbs-bad-maps module folder. Delete the folders inside the 'packs' directory
+2.  Browse to the folder for the Source World for Orb's Bad Maps
+3.  Copy the folders in the 'packs' directory and paste them into the module's 'packs' folder
+4.  Decide on the appropriate version number by reviewing existing tags, tag standards expressed in the README etc.
+4.  Edit the README to indicate the changes. Use the new version number in the Changelog table
+5.  Edit the module.json file. Specifically:
+    a. edit the "Version" element to be the new version
+	b. edit the "Download" element. Be sure the link points to the new version you will release
+	c. make sure the file is valid JSON - no dropped commas or missing/extra braces
+6.  Commit all changes locally to git and push
+7.  Create a tag that matches the version decided above and push that as well
+8.  Create a zip file containing only the essential items in the module. Exclude this file and any git artifacts
+9.  Rename the zip file to orbs-bad-maps.zip and move it outside the module folder
+10. Copy the module.json file outside the module fodler
+11. On github, create a new release:
+    a. select the tag you just created
+	b. provide name and a list of changes 
+	c. drag and drop the the zip file and module.json file into the binary uploads are aof the release
+	d. make the release
+12. Launch FoundryVTT and update the module
+
+Other Notes
+=====================
+To tell FoundryVTT to download the module, provide a link to the manifest file of the format: https://github.com/orb15/orbs-bad-maps/releases/latest/download/module.json
