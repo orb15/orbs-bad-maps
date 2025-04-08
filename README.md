@@ -1,7 +1,7 @@
 # Orb's Bad Maps (and Backgrounds)
 Orb's Bad Maps is a collection of quick battlemaps and backgrounds I have made for my own games in Foundry Virtual Tabletop.
 
-I am not a fantasy carteographer.
+I am not a fantasy cartographer.
 I have no talent. I do not have a Patreon. 
 There are no works of art here and no animation.
 I make maps because I run online games and need maps, preferably reusable ones.
